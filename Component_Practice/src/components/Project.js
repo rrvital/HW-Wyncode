@@ -1,6 +1,7 @@
 import React, { Component } from 'react';
 
 class Project extends Component {
+  
   render() {
 
     let classes = this.props.imgName + " portfolio-img" ;
